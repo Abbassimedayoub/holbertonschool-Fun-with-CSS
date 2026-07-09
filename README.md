@@ -1,3 +1,13 @@
-In this project, I will experiment and implement fun layout with HTML and CSS ONLY!
+# Fun with CSS
 
-Yes, no JavaScript!
+## Overview
+
+Experiments with creative layouts using **HTML and CSS only** — no JavaScript.
+
+> **Status:** planned — experiments will be pushed here as they are completed.
+
+## Author
+
+**Mohamed Ayoub Abbassi** — Holberton School Paris
+
+- GitHub: [@Abbassimedayoub](https://github.com/Abbassimedayoub)
